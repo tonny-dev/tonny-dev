@@ -14,7 +14,7 @@
     <a href="https://tonnydev.vercel.app/">
       <img alt="My Personal Portfolio" src="https://img.shields.io/static/v1?color=01bf71&label=Website&message=tonny.dev&style=flat&logo=atom&logoColor=61dbfb&labelColor=334155">
     </a>
-    <a href="https://twitter.com/_tonny_js">
+    <a href="https://twitter.com/_tonnydev">
       <img alt="My Twitter Profile" src="https://img.shields.io/badge/Twitter-tonnydev-01bf71?style=flat&logo=twitter&logoColor=00acee&labelColor=334155">
     </a>
     <a href="https://hashnode.com/@tonny-js">
