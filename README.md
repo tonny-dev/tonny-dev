@@ -9,7 +9,7 @@
 <header>
   <div align="center">
      <a href="https://www.linkedin.com/in/antony-mumo-62b657171/">
-      <img alt="My LinkedIn Profile" src="https://img.shields.io/static/v1?color=01bf71&label=linkein&message=@tonny-js&style=flat&logo=linkedin&logoColor=1a6aff&labelColor=334155">
+      <img alt="My LinkedIn Profile" src="https://img.shields.io/static/v1?color=01bf71&label=linkein&message=@tonnydev&style=flat&logo=linkedin&logoColor=1a6aff&labelColor=334155">
     </a>
     <a href="https://tonnydev.vercel.app/">
       <img alt="My Personal Portfolio" src="https://img.shields.io/static/v1?color=01bf71&label=Website&message=tonny.dev&style=flat&logo=atom&logoColor=61dbfb&labelColor=334155">
@@ -18,7 +18,7 @@
       <img alt="My Twitter Profile" src="https://img.shields.io/badge/Twitter-tonnydev-01bf71?style=flat&logo=twitter&logoColor=00acee&labelColor=334155">
     </a>
     <a href="https://hashnode.com/@tonny-js">
-      <img alt="My Hashnode Profile" src="https://img.shields.io/static/v1?color=01bf71&label=Hashnode&message=@tonny-js&style=flat&logo=hashnode&logoColor=1a6aff&labelColor=334155">
+      <img alt="My Hashnode Profile" src="https://img.shields.io/static/v1?color=01bf71&label=Hashnode&message=@tonnydev&style=flat&logo=hashnode&logoColor=1a6aff&labelColor=334155">
     </a> 
   </div>
 </header>
@@ -26,7 +26,7 @@
 <br />
 <br />
 
-<details>
+<!-- <details>
   <summary><h2 style="font-weight: bold">📊 GitHub Stats</h2></summary>
   <div>
     <br />
@@ -54,4 +54,4 @@
       </a>
     </div>
   </div>
-</details>
+</details> -->
